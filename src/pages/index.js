@@ -95,6 +95,8 @@ const links = [
     description:
       "Practical step-by-step guides to help you achieve a specific goal. Most useful when you're trying to get something done.",
     color: "#1099A8",
+    border: "10px solid #1099A8"
+
   },
   {
     text: "Reference Guides",
@@ -124,6 +126,7 @@ const links = [
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
     color: "#663399",
+    border: "10px solid #66339",
   },
 ]
 
